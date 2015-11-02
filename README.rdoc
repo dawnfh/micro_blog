@@ -3,7 +3,7 @@
 ** Class files for Week 06 | Day 5: Rails Paperclip, 
 ** Mckenzie Child 001: Image Uploading w/ Paperclip Gem, 
 ** http://www.bogotobogo.com/RubyOnRails/RubyOnRails_Blog_with_post_and_comment.php
-**uploaded to the github.
+
 
 
 This README would normally document whatever steps are necessary to get the
